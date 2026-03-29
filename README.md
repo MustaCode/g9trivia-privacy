@@ -2,7 +2,7 @@
 
 **Last Updated: March 29, 2026**
 
-John ("we", "our", or "us") operates the G9 Trivia mobile application. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service.
+MustaApps ("we", "our", or "us") operates the G9 Trivia mobile application. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service.
 
 ### 1. Information Collection and Use
 For a better experience, while using our Service, we do not require you to provide us with any personally identifiable information. The app is a soccer trivia game intended for entertainment.
